@@ -19,4 +19,9 @@ or
 
 http://cvetanka.shinyapps.io/DataProducts/
 
+I have also made a small presentation about this application. It is published on R pubs and you may find it here:
+
+http://rpubs.com/Cvetanka/55334
+
+
 Enjoy!
