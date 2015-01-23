@@ -19,6 +19,7 @@ library(shiny)
 #myvars <- c("year","Emissions","City")
 #new <- Motor_Vehicles[myvars]
 #Total<- aggregate(Emissions~year+City, new, sum)
+#write.csv(Total, filename = "Total")
 Total <- read.csv("Total.csv",sep = ",", header = TRUE)
 cities <- as.character(unique(Total$City))
 
