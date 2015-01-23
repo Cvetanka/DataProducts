@@ -1,8 +1,8 @@
-##year	      City	                Emissions
+### year	      City	                Emissions
 
-1999	Baltimore City	346.82
+    1999	    Baltimore City	        346.82
 
-2002	Baltimore City	134.3088211993
+    2002	    Baltimore City	        134.3088211993
 
 2005	Baltimore City	130.4303798859
 
