@@ -1,4 +1,4 @@
-year	City	          Emissions
+year	      City	                Emissions
 
 1999	Baltimore City	346.82
 
